@@ -1,0 +1,92 @@
+Token: {'tag': '{'} 
+Token: {'tag' : 257, 'lexeme': 'int', 'width': 4}
+Token: {'tag': 264, 'lexeme': 'i'}
+Token: {'tag': ';'} 
+Token: {'tag' : 257, 'lexeme': 'int', 'width': 4}
+Token: {'tag': 264, 'lexeme': 'j'}
+Token: {'tag': ';'} 
+Token: {'tag': 257, 'lexeme': 'float', 'width': 8}
+Token: {'tag': 264, 'lexeme': 'v'}
+Token: {'tag': ';'} 
+Token: {'tag': 257, 'lexeme': 'float', 'width': 8}
+Token: {'tag': 264, 'lexeme': 'x'}
+Token: {'tag': ';'} 
+Token: {'tag': 257, 'lexeme': 'float', 'width': 8}
+Token: {'tag': '['} 
+Token: {'tag': 270, 'value': '100'}
+Token: {'tag': ']'} 
+Token: {'tag': 264, 'lexeme': 'a'}
+Token: {'tag': ';'} 
+Token: {'tag': 275, 'lexeme': 'while'}
+Token: {'tag': '('} 
+Token: {'tag': 274, 'lexeme': 'true'}
+Token: {'tag': ')'} 
+Token: {'tag': '{'} 
+Token: {'tag': 259, 'lexeme': 'do'}
+Token: {'tag': 264, 'lexeme': 'i'}
+Token: {'tag': '='} 
+Token: {'tag': 264, 'lexeme': 'i'}
+Token: {'tag': '+'} 
+Token: {'tag': 270, 'value': '1'}
+Token: {'tag': ';'} 
+Token: {'tag': 275, 'lexeme': 'while'}
+Token: {'tag': '('} 
+Token: {'tag': 264, 'lexeme': 'a'}
+Token: {'tag': '['} 
+Token: {'tag': 264, 'lexeme': 'i'}
+Token: {'tag': ']'} 
+Token: {'tag': '<'} 
+Token: {'tag': 264, 'lexeme': 'v'}
+Token: {'tag': ')'} 
+Token: {'tag': ';'} 
+Token: {'tag': 259, 'lexeme': 'do'}
+Token: {'tag': 264, 'lexeme': 'j'}
+Token: {'tag': '='} 
+Token: {'tag': 264, 'lexeme': 'j'}
+Token: {'tag': '-'} 
+Token: {'tag': 270, 'value': '1'}
+Token: {'tag': ';'} 
+Token: {'tag': 275, 'lexeme': 'while'}
+Token: {'tag': '('} 
+Token: {'tag': 264, 'lexeme': 'a'}
+Token: {'tag': '['} 
+Token: {'tag': 264, 'lexeme': 'j'}
+Token: {'tag': ']'} 
+Token: {'tag': '>'} 
+Token: {'tag': 264, 'lexeme': 'v'}
+Token: {'tag': ')'} 
+Token: {'tag': ';'} 
+Token: {'tag': 265, 'lexeme': 'if'}
+Token: {'tag': '('} 
+Token: {'tag': 264, 'lexeme': 'i'}
+Token: {'tag': 263, 'lexeme': '>='}
+Token: {'tag': 264, 'lexeme': 'j'}
+Token: {'tag': ')'} 
+Token: {'tag': 258, 'lexeme': 'break'}
+Token: {'tag': ';'} 
+Token: {'tag': 264, 'lexeme': 'x'}
+Token: {'tag': '='} 
+Token: {'tag': 264, 'lexeme': 'a'}
+Token: {'tag': '['} 
+Token: {'tag': 264, 'lexeme': 'i'}
+Token: {'tag': ']'} 
+Token: {'tag': ';'} 
+Token: {'tag': 264, 'lexeme': 'a'}
+Token: {'tag': '['} 
+Token: {'tag': 264, 'lexeme': 'i'}
+Token: {'tag': ']'} 
+Token: {'tag': '='} 
+Token: {'tag': 264, 'lexeme': 'a'}
+Token: {'tag': '['} 
+Token: {'tag': 264, 'lexeme': 'j'}
+Token: {'tag': ']'} 
+Token: {'tag': ';'} 
+Token: {'tag': 264, 'lexeme': 'a'}
+Token: {'tag': '['} 
+Token: {'tag': 264, 'lexeme': 'j'}
+Token: {'tag': ']'} 
+Token: {'tag': '='} 
+Token: {'tag': 264, 'lexeme': 'x'}
+Token: {'tag': ';'} 
+Token: {'tag': '}'} 
+Token: {'tag': '}'} 
